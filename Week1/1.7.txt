@@ -1,0 +1,2 @@
+Chương trình thiếu String[] args
+String[] args được dùng để lưu trữ các đối số dòng lệnh Java và là một mảng của lớp kiểu java.lang.String, nếu không có nó thì chương trình sẽ lỗi

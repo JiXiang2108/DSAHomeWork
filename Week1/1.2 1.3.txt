@@ -1,0 +1,6 @@
+Public: Đây là một access modifier (Khả năng truy cập) public nghĩa là phương thức này có thể truy cập bởi bất cứ lớp nào để có thể dễ dàng truy cập và thực thi.
+Static: Khi phương thức main là static thì máy ảo JVM sẽ gọi nó mà không cần tạo bất kỳ đối tượng nào hay bạn có thể hiểu là JVM dễ dàng tìm thấy phương thức.
+Void: Phương thức main trong Java không cho phép trả về bất kỳ giá trị nào (Phương thức void thì không có giá trị trả về).
+Main: Tên phương thức.
+String[] args: nó là tham số cho phương thức với đối số là args.
+Vậy nên khi không có hoặc viết sai các từ public, static, void, args thì sẽ báo lỗi

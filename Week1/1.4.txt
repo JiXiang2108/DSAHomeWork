@@ -1,0 +1,11 @@
+java Hi -> lỗi vì không có tham số dòng lệnh
+
+java Hi @!&^% -> lỗi vì kiểu String không chấp nhận ký tự đặc biệt
+
+java Hi 1234 -> chương trình chạy bình thường vì không có ký tự đặc biệt
+
+java Hi.class Bob -> lỗi
+
+java Hi.java Bob -> chương trình chạy bình thường
+
+java Hi Alice Bob -> Hi, Alice. How are you? 

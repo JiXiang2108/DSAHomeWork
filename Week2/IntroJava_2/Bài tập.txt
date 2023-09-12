@@ -1,0 +1,11 @@
+10. in ra a
+in ra số nguyên bé nhất
+in ra 2 - a
+in ra a
+in ra -2
+in ra -4
+11. in ra a
+in ra a + 1
+in ra 2
+in ra 8 / a
+lỗi
