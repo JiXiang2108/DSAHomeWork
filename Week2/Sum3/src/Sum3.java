@@ -15,8 +15,9 @@ public class Sum3 {
             }
             q ++;
         }
+        /*
         for (int i = 0; i < n - 2; i ++) {
-            int j = i + 1;
+            int j = (i + 1);
             int k = n - 1;
             while (j < k) {
                 int x = a[i] + a[j] + a[k];
@@ -26,10 +27,31 @@ public class Sum3 {
                     k -= 1;
                 }
                 else if (x < 0) {
-                    j += 1;
+                    j ++;
                 }
                 else {
-                    k -= 1;
+                    k --;
+                }
+            }
+        }
+        */
+        for (int i = 0; i < n - 3; i ++) {
+            for (int j = i + 1; j < n - 2; j ++) {
+                int right = n - 1;
+                int left = j;
+                int tar = -a[i] - a[j];
+                while (right > left) {
+                    int mid = (right + left) / 2;
+                    if (a[mid] == tar) {
+                        System.out.println(a[i] + " " + a[mid] + " " + a[j]);
+                        break;
+                    }
+                    else if (a[mid] < tar) {
+                        left = mid + 1;
+                    }
+                    else {
+                        right = mid - 1;
+                    }
                 }
             }
         }
