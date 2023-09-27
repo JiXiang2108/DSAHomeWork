@@ -7,6 +7,7 @@ public class Sum3 {
         int n = a.length;
         Arrays.sort(a);
         int q = 0;
+
         while (q < n - 1) {
             if (a[q] == a[q + 1]) {
                 for (int k = q + 1; k < n - 1; k ++) a[k] = a[k + 1];
@@ -35,6 +36,7 @@ public class Sum3 {
             }
         }
         */
+        final long startTime = System.currentTimeMillis();
         for (int i = 0; i < n - 3; i ++) {
             for (int j = i + 1; j < n - 2; j ++) {
                 int right = n - 1;
@@ -55,5 +57,16 @@ public class Sum3 {
                 }
             }
         }
+        final long endTime = System.currentTimeMillis();
+        System.out.println(endTime - startTime);
+        for (int i = 0; i < n - 3; i ++) {
+            for (int j = i; j < n - 2; j ++) {
+                for (int k = j; k < n - 1; k ++) {
+                    if (a[j] + a[i] + a[k] == 0) continue;
+                }
+            }
+        }
+        final long endTime2 = System.currentTimeMillis();
+        System.out.println(endTime2 - endTime);
     }
 }
