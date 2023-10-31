@@ -16,7 +16,7 @@ public class Main {
         for (int i = 1; i <= v; i ++) {
             root[i] = -1;
         }
-        for (int i = 1; i <= v; i ++) {
+        for (int i = 1; i <= e; i ++) {
             int x = sc.nextInt();
             int y = sc.nextInt();
             x = get_root(x);
@@ -32,5 +32,6 @@ public class Main {
                 res--;
             }
         }
+        System.out.println(res);
     }
 }
