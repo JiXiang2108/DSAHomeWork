@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week6/Bai1-KhaoSatInsertionSort/Bai1-KhaoSatInsertionSort.iml" filepath="$PROJECT_DIR$/Week6/Bai1-KhaoSatInsertionSort/Bai1-KhaoSatInsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Bai2-KhaoSatSelectionSort/Bai2-KhaoSatSelectionSort.iml" filepath="$PROJECT_DIR$/Week6/Bai2-KhaoSatSelectionSort/Bai2-KhaoSatSelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/CompareTwoLinkedList/CompareTwoLinkedList.iml" filepath="$PROJECT_DIR$/Week4/CompareTwoLinkedList/CompareTwoLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/CorrectnessAndTheLoopInvariant/CorrectnessAndTheLoopInvariant.iml" filepath="$PROJECT_DIR$/Week6/CorrectnessAndTheLoopInvariant/CorrectnessAndTheLoopInvariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/CountingSort1/CountingSort1.iml" filepath="$PROJECT_DIR$/Week6/CountingSort1/CountingSort1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/CycleDetection/CycleDetection.iml" filepath="$PROJECT_DIR$/Week4/CycleDetection/CycleDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/DeleteANode/DeleteANode.iml" filepath="$PROJECT_DIR$/Week4/DeleteANode/DeleteANode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/EqualStack/EqualStack.iml" filepath="$PROJECT_DIR$/Week5/EqualStack/EqualStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises.iml" filepath="$PROJECT_DIR$/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week8/FindingTheRunningMedian/FindingTheRunningMedian.iml" filepath="$PROJECT_DIR$/Week8/FindingTheRunningMedian/FindingTheRunningMedian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/InsertANodeAtASpecificPositionInALinkedList/InsertANodeAtASpecificPositionInALinkedList.iml" filepath="$PROJECT_DIR$/Week4/InsertANodeAtASpecificPositionInALinkedList/InsertANodeAtASpecificPositionInALinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/InsertANodeAtTheHeadOfALinkedList/InsertANodeAtTheHeadOfALinkedList.iml" filepath="$PROJECT_DIR$/Week4/InsertANodeAtTheHeadOfALinkedList/InsertANodeAtTheHeadOfALinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/InsertTheNodeAtTheTailOfTheLinkedList/InsertTheNodeAtTheTailOfTheLinkedList.iml" filepath="$PROJECT_DIR$/Week4/InsertTheNodeAtTheTailOfTheLinkedList/InsertTheNodeAtTheTailOfTheLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Insertion Sort_Part 1/Insertion Sort_Part 1.iml" filepath="$PROJECT_DIR$/Week6/Insertion Sort_Part 1/Insertion Sort_Part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/InsertionSort-P2/InsertionSort-P2.iml" filepath="$PROJECT_DIR$/Week6/InsertionSort-P2/InsertionSort-P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week7/IntroOnTutorialChallenges/IntroOnTutorialChallenges.iml" filepath="$PROJECT_DIR$/Week7/IntroOnTutorialChallenges/IntroOnTutorialChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week9/JavaHashset/JavaHashset.iml" filepath="$PROJECT_DIR$/Week9/JavaHashset/JavaHashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week9/JavaMap/JavaMap.iml" filepath="$PROJECT_DIR$/Week9/JavaMap/JavaMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week8/JavaStringReverse/JavaStringReverse.iml" filepath="$PROJECT_DIR$/Week8/JavaStringReverse/JavaStringReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week8/JesseAndCookie/JesseAndCookie.iml" filepath="$PROJECT_DIR$/Week8/JesseAndCookie/JesseAndCookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked-List/Linked-List.iml" filepath="$PROJECT_DIR$/Linked-List/Linked-List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/Week6/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/MergeTwoSortedLinkedList/MergeTwoSortedLinkedList.iml" filepath="$PROJECT_DIR$/Week4/MergeTwoSortedLinkedList/MergeTwoSortedLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/PrintInReverse/PrintInReverse.iml" filepath="$PROJECT_DIR$/Week4/PrintInReverse/PrintInReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/PrintTheElementOfALinkedLIst/PrintTheElementOfALinkedLIst.iml" filepath="$PROJECT_DIR$/Week4/PrintTheElementOfALinkedLIst/PrintTheElementOfALinkedLIst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/Queue/Queue.iml" filepath="$PROJECT_DIR$/Week5/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/QueueArray/QueueArray.iml" filepath="$PROJECT_DIR$/Week5/QueueArray/QueueArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week7/QuickSort1-Partition/QuickSort1-Partition.iml" filepath="$PROJECT_DIR$/Week7/QuickSort1-Partition/QuickSort1-Partition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week7/QuickSortIn-Place/QuickSortIn-Place.iml" filepath="$PROJECT_DIR$/Week7/QuickSortIn-Place/QuickSortIn-Place.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/ReverseADoublyLinkedList/ReverseADoublyLinkedList.iml" filepath="$PROJECT_DIR$/Week4/ReverseADoublyLinkedList/ReverseADoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/ReverseALinkedList/ReverseALinkedList.iml" filepath="$PROJECT_DIR$/Week4/ReverseALinkedList/ReverseALinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/Week5/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/Stack/Stack.iml" filepath="$PROJECT_DIR$/Week5/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/Sum1/Sum1.iml" filepath="$PROJECT_DIR$/Week2/Sum1/Sum1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/Sum3/Sum3.iml" filepath="$PROJECT_DIR$/Week2/Sum3/Sum3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week9/Tree_InorderTraversal/Tree_InorderTraversal.iml" filepath="$PROJECT_DIR$/Week9/Tree_InorderTraversal/Tree_InorderTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week9/Tree_PreorderTraversal/Tree_PreorderTraversal.iml" filepath="$PROJECT_DIR$/Week9/Tree_PreorderTraversal/Tree_PreorderTraversal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/UFClient1/UFClient1.iml" filepath="$PROJECT_DIR$/Week2/UFClient1/UFClient1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UFClient2/UFClient2.iml" filepath="$PROJECT_DIR$/UFClient2/UFClient2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week10/Week10.iml" filepath="$PROJECT_DIR$/Week10/Week10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
+    </modules>
+  </component>
+</project>
